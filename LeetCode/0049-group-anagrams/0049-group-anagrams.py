@@ -39,11 +39,6 @@ class Solution:
             answer.append(s[:-1])
         
         return answer
-
-        #Wrong answer
-        #["bdddddddddd","bbbbbbbbbbc"] input
-        #[["bdddddddddd","bbbbbbbbbbc"]] output
-        #[["bbbbbbbbbbc"],["bdddddddddd"]] 내 코드 답 sorted 문제같다
         
 
 
